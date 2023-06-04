@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy <a href="https://raulbalrod.github.io/portfolio/">ralbalrod</a> 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Estudiante Desarrollo de Aplicaciones Web</strong> en ADA ITS.</p>
+<p align="center">Soy <strong>Estudiante de Desarrollo de Aplicaciones Web</strong> en ADA ITS.</p>
 <p align="center">
   
   ## Tecnologías:
