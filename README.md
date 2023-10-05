@@ -18,6 +18,7 @@
 [![React Native](https://img.shields.io/badge/React.Native-004e67?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 
+[![Git](https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-1c2128?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 </br>
 
