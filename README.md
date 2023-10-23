@@ -9,12 +9,10 @@
   ## Tecnologías:
 [![Java](https://img.shields.io/badge/Java-b48600?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-00b32b?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![typeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-0088b3?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![React Native](https://img.shields.io/badge/React.Native-004e67?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
