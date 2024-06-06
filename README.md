@@ -1,9 +1,9 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.imgur.com/aSCBsNc.png"/>
-   <h3 align="center">¡Hey 👋! Soy <a href="https://raulbalrod.github.io/portfolio/">raulbalrod</a> 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! I'm <a href="https://raulbalrod.github.io/portfolio/">raulbalrod</a> 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Estudiante de Desarrollo de Aplicaciones Web</strong> en ADA ITS.</p>
+<p align="center">I'm <strong>Software Developer</strong></p>
 <p align="center">
   
   ## Tecnologías:
