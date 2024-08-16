@@ -13,10 +13,10 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
+[![Nextjs](https://img.shields.io/badge/Next.js-1c2128?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-0088b3?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-377cc8?style=for-the-badge&logo=typeScript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-0088b3?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Nextjs](https://img.shields.io/badge/Next.js-1c2128?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
 </br>
 
 [![React Native](https://img.shields.io/badge/React.Native-004e67?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
