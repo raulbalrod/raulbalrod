@@ -7,8 +7,8 @@
 <p align="center">
   
   ## Tecnologías:
-[![Java](https://img.shields.io/badge/Java-b48600?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Ruby](https://img.shields.io/badge/Ruby-cc0000?style=for-the-badge&logo=ruby&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-199555?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
