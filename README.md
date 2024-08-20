@@ -6,7 +6,7 @@
 <p align="center">I'm <strong>Software Developer</strong></p>
 <p align="center">
   
-  ## Tecnologías:
+  ## Technologies:
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Ruby](https://img.shields.io/badge/Ruby-cc0000?style=for-the-badge&logo=ruby&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-199555?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
@@ -26,4 +26,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-1c2128?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 </br>
 
-Y alguna más...
+And some more...
