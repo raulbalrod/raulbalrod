@@ -3,14 +3,14 @@
    <h3 align="center">¡Hey 👋! I'm <a href="https://raulbalrod-porfolio.vercel.app/">raulbalrod</a> 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I'm <strong>Software Developer</strong></p>
+<p align="center">I'm <strong>RAG & Software Developer</strong></p>
 <p align="center">
   
-  ## Technologies:
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+   ## 🛠️ Technologies:
 [![Ruby](https://img.shields.io/badge/Ruby-cc0000?style=for-the-badge&logo=ruby&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-199555?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-d30001?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 
 [![Nextjs](https://img.shields.io/badge/Next.js-1c2128?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
@@ -20,10 +20,6 @@
 </br>
 
 [![React Native](https://img.shields.io/badge/React.Native-004e67?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-</br>
-
-[![Git](https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![GitHub](https://img.shields.io/badge/GitHub-1c2128?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 </br>
 
 And some more...
