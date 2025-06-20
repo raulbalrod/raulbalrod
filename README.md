@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">¡Hey 👋! I'm <a href="https://raulbalrod-porfolio.vercel.app/">raulbalrod</a> 👨🏻‍💻</h3>
-<p align="center">I'm <strong>RAG & Software Developer</strong></p>
+<p align="center">I'm <strong>RAG & Software Developer</strong> at <a href="https://github.com/secture">Secture</a></p>
 <p align="center">
   
    ## 🛠️ Technologies:
