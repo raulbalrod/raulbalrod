@@ -1,8 +1,12 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://i.imgur.com/aSCBsNc.png"/>
-   <h3 align="center">¡Hey 👋! I'm <a href="https://raulbalrod-porfolio.vercel.app/">raulbalrod</a> 👨🏻‍💻</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba0d1c3a-7639-4b5a-b4fc-1467e6377771" 
+       alt="secture-raul_optimized_1000" 
+       width="200" 
+       height="200" 
+     />
 </p>
 
+<h3 align="center">¡Hey 👋! I'm <a href="https://raulbalrod-porfolio.vercel.app/">raulbalrod</a> 👨🏻‍💻</h3>
 <p align="center">I'm <strong>RAG & Software Developer</strong></p>
 <p align="center">
   
