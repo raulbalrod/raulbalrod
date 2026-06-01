@@ -23,7 +23,4 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-377cc8?style=for-the-badge&logo=typeScript&logoColor=white&labelColor=101010)]()
 </br>
 
-[![React Native](https://img.shields.io/badge/React.Native-004e67?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-</br>
-
 And some more...
